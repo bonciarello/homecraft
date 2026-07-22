@@ -13,7 +13,7 @@ const config = {
       strict: false
     }),
     paths: {
-      base: '/app/homecraft',
+      base: '/homecraft',
       relative: true
     }
   }
