@@ -192,7 +192,7 @@ function classicLayout(name, bio, links, count) {
       ${links || '<p class="empty-state">Nessun collegamento inserito</p>'}
     </nav>
     <footer class="page-footer">
-      <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+      <p>Creato con HomeCraft</p>
     </footer>`;
 }
 
@@ -211,7 +211,7 @@ function galleryLayout(name, bio, links, count) {
       ${links || '<p class="empty-state">Nessun collegamento inserito</p>'}
     </nav>
     <footer class="page-footer">
-      <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+      <p>Creato con HomeCraft</p>
     </footer>`;
 }
 
@@ -230,7 +230,7 @@ function sidebarLayout(name, bio, links, count) {
           ${links || '<p class="empty-state">Nessun collegamento inserito</p>'}
         </nav>
         <footer class="page-footer">
-          <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+          <p>Creato con HomeCraft</p>
         </footer>
       </main>
     </div>`;
@@ -251,7 +251,7 @@ function minimalLayout(name, bio, links, count) {
       ${links || '<p class="empty-state">Nessun collegamento inserito</p>'}
     </nav>
     <footer class="page-footer">
-      <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+      <p>Creato con HomeCraft</p>
     </footer>`;
 }
 

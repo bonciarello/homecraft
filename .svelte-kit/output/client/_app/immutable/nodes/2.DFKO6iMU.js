@@ -90,7 +90,7 @@ import{a as q,f as Y}from"../chunks/DTSQhbWA.js";import{i as ye,w as ka,m as R,z
       ${r||'<p class="empty-state">Nessun collegamento inserito</p>'}
     </nav>
     <footer class="page-footer">
-      <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+      <p>Creato con HomeCraft</p>
     </footer>`}function xr(e,a,r,s){const l=H(e||"Il tuo nome"),i=H(a||"La tua bio qui");return`
     <header class="profile profile-compact">
       <div class="avatar avatar-sm" aria-hidden="true">${(e||"?").charAt(0).toUpperCase()}</div>
@@ -103,7 +103,7 @@ import{a as q,f as Y}from"../chunks/DTSQhbWA.js";import{i as ye,w as ka,m as R,z
       ${r||'<p class="empty-state">Nessun collegamento inserito</p>'}
     </nav>
     <footer class="page-footer">
-      <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+      <p>Creato con HomeCraft</p>
     </footer>`}function br(e,a,r,s){const l=H(e||"Il tuo nome"),i=H(a||"La tua bio qui");return`
     <div class="sidebar-layout">
       <aside class="sidebar-panel">
@@ -116,7 +116,7 @@ import{a as q,f as Y}from"../chunks/DTSQhbWA.js";import{i as ye,w as ka,m as R,z
           ${r||'<p class="empty-state">Nessun collegamento inserito</p>'}
         </nav>
         <footer class="page-footer">
-          <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+          <p>Creato con HomeCraft</p>
         </footer>
       </main>
     </div>`}function wr(e,a,r,s){const l=H(e||"Il tuo nome"),i=H(a||"La tua bio qui");return`
@@ -131,7 +131,7 @@ import{a as q,f as Y}from"../chunks/DTSQhbWA.js";import{i as ye,w as ka,m as R,z
       ${r||'<p class="empty-state">Nessun collegamento inserito</p>'}
     </nav>
     <footer class="page-footer">
-      <p>Creato con <a href="https://cristianporco.it/app/homecraft/">HomeCraft</a></p>
+      <p>Creato con HomeCraft</p>
     </footer>`}function kr(e){const a=`
     .profile { text-align: center; margin-bottom: 32px; }
     .profile-compact { display: flex; align-items: center; gap: 16px; text-align: left; }

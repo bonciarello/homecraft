@@ -108,11 +108,9 @@ const options = {
   <title>HomeCraft — Genera la tua home page personale</title>
   <meta name="description" content="Crea una home page personale con link e widget in pochi click. Scegli tra 4 template, personalizza colori e scarica il codice HTML pronto da pubblicare." />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://cristianporco.it/app/homecraft/" />
   <meta property="og:title" content="HomeCraft — Genera la tua home page personale" />
   <meta property="og:description" content="Crea una home page personale con link e widget in pochi click. Scegli tra 4 template, personalizza colori e scarica il codice HTML pronto da pubblicare." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://cristianporco.it/app/homecraft/" />
   <meta property="og:locale" content="it_IT" />
   <base href="./" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>" />
@@ -124,7 +122,6 @@ const options = {
       "@context": "https://schema.org",
       "@type": "WebApplication",
       "name": "HomeCraft",
-      "url": "https://cristianporco.it/app/homecraft/",
       "description": "Generatore di home page personali da template visivi. Scegli un layout, inserisci i tuoi link, personalizza i colori e scarica il codice HTML pronto.",
       "applicationCategory": "DesignApplication",
       "operatingSystem": "Web",
